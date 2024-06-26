@@ -136,8 +136,6 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 
    - `DATABASE_URL` is the connection URL for your Aiven MySQL database. You will need to create a Aiven account (https://aiven.io/) or use an existing one. Obtain the connection URL from your Aiven dashboard.
 
-![Copy Aiven MySQL Database Auth URL](/.github/images/step_aiven.png "Copy Aiven MySQL Database Auth URL")
-
 10. **Public App URL**:
 
     - `NEXT_PUBLIC_APP_URL` are endpoints or URLs related to this Project. You can configure/copy this from your needs.
@@ -210,6 +208,3 @@ Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment)
 
 You can also give this repository a star to show more people and they can use this repository.# Taskify
 # Taskify
-# Tasking
-# Tasking
-# Tasking
